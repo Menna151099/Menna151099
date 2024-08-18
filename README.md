@@ -1,4 +1,5 @@
 # 💫 About Me:
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Animated GIF">
 - 👋Hi, I'm Menna Hossam.<br>-  I graduated from the Information Technology Department.<br>- I got a Master's degree in Information Architecture Software.<br>- I am currently learning more about programming.<br>- I'm interested in full-stack development.<br>- I work on developing myself because I love learning a lot.<br>-You can contact me via email:menna77hossam@gmail.com.<br>
 
 
@@ -17,9 +18,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Menna151099&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Menna151099&icon=0&color=0)](https://visitcount.itsvg.in)
