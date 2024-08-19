@@ -1,21 +1,12 @@
 <h1 align="center">Hi , I'm Menna Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
-</p>
-
-<br>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-end+Developer;Web+Developer">
   </a>
 </p>
 
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
 - :school: I graduated from the Information Technology Department.
 - :technologist:I got a Master's degree in Information Architecture Software.
@@ -78,61 +69,29 @@
 </p>
 
 <br> 
-
 ---
-
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-<picture> 
-  <img src="https://github.com/menna77hossam/menna77hossam/blob/main/Images/Statistics.gif?raw=true" width="50px"> 
-</picture> 
-Github Stats
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details>
   <summary><h3> 🔥 Streak Stats</h3></summary>
   ----
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=menna77hossam&theme=tokyonight_duo" alt="menna" /></p>
 </details>
 
 <details>
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
   ----
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="menna77hossam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=menna77hossam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=menna77hossam&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="menna" height="230px"/>
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 </details>
 
 <details>
   <summary><h3> :open_file_folder: My Repositories </h3></summary>
   ----
-  <div>
-    <p align="center">
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=menna77hossam&repo=Project1&theme=tokyonight" alt="GitHub Stats" />
-      </a>
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=menna77hossam&repo=Project2&theme=tokyonight" alt="GitHub Stats" />
-      </a>
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=menna77hossam&repo=Project3&theme=tokyonight" alt="GitHub Stats" />
-      </a>
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=menna77hossam&repo=Project4&theme=tokyonight" alt="GitHub Stats" />
-      </a>
-     
-    </p>
-  </div>
 </details>
 
 </br></br>
-
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
