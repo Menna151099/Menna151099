@@ -13,7 +13,7 @@
 - :computer: I'm interested in full-stack development.
 - :student: I’m currently learning more about programming.
 - :nerd_face: I work on developing myself because I love `learning a lot`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rO4XcIxNreSr_p2UXw1AVAj__l6lP_qJ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://menna151099.github.io/Menna-Hossam/).
 - 📫 You can contact me via[EMAIL](menna77hossam@gmail.com).
 <br>
@@ -36,7 +36,8 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS"
+ src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
