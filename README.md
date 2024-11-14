@@ -13,7 +13,7 @@
 - :computer: I'm interested in full-stack development.
 - :student: I’m currently learning more about programming.
 - :nerd_face: I work on developing myself because I love `learning a lot`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rO4XcIxNreSr_p2UXw1AVAj__l6lP_qJ/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1rO4XcIxNreSr_p2UXw1AVAj__l6lP_qJ/view?usp=sharing](https://drive.google.com/file/d/1K5OqFi1mZtVwTx6nNLbUrCjk5mNCaQHE/view?usp=drive_link)).
 - :boom: You can visit [MY WEBSITE](https://menna151099.github.io/Menna-Hossam/).
 - 📫 You can contact me via[EMAIL](menna77hossam@gmail.com).
 <br>
